@@ -1,4 +1,3 @@
 1st
 David,5
-Ali,1
 Abby,5
