@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.rational.xtools.umlvisualizer.emfnotation:Pack xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.rational.xtools.umlvisualizer.emfnotation="http:///com/rational/xtools/umlvisualizer/emfnotation.ecore" Id="24bde9d0-0108-f0e3-2673-0acc110aaa77" version="8">
+  <Diagram DiagramId="2a36859c-0108-f6f3-4183-0acc110aaa77">
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fd3e2e-0108-f9a9-2237-0acc110aaa77" sourceConnectors="24fdabd9-0108-ff1d-524f-0acc110aaa77 24fdabdd-0108-e36a-0c0e-0acc110aaa77 24fdabe1-0108-ea19-46e5-0acc110aaa77 24fdabe9-0108-f2b2-4118-0acc110aaa77 24fdabed-0108-f6fe-7fc2-0acc110aaa77" PositionX="12075" PositionY="1850" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})" Name="SuperBowl" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fd3e2f-0108-fabc-2fdf-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})" Name="SuperBowl" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fd3e30-0108-fdb8-38e2-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})" Name="SuperBowl" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="24fd3e31-0108-fecb-4076-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})" Name="SuperBowl" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="24fd3e32-0108-fb92-49f1-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})" Name="SuperBowl" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabb5-0108-f86e-5c67-0acc110aaa77" targetConnectors="24fdabd9-0108-ff1d-524f-0acc110aaa77" PositionX="625" PositionY="4900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Bettors})" Name="Bettors" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabb6-0108-f534-6916-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Bettors})" Name="Bettors" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabb7-0108-f648-7209-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Bettors})" Name="Bettors" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="24fdabb8-0108-fba7-799b-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Bettors})" Name="Bettors" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="24fdabb9-0108-fcba-0334-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Bettors})" Name="Bettors" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabba-0108-f981-10a3-0acc110aaa77" targetConnectors="24fdabdd-0108-e36a-0c0e-0acc110aaa77" PositionX="7300" PositionY="4900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Pot})" Name="Pot" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabbb-0108-fa94-1d25-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Pot})" Name="Pot" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabbc-0108-fff3-261b-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Pot})" Name="Pot" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="24fdabbd-0108-e107-2dcb-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Pot})" Name="Pot" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="24fdabbe-0108-fdcd-3761-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Pot})" Name="Pot" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabbf-0108-fee0-51f2-0acc110aaa77" targetConnectors="24fdabe1-0108-ea19-46e5-0acc110aaa77" PositionX="10675" PositionY="4900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors})" Name="LoadTeamsAndBettors" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabc0-0108-e6a3-5e9b-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors})" Name="LoadTeamsAndBettors" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabc1-0108-e7b6-678a-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors})" Name="LoadTeamsAndBettors" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="24fdabc2-0108-e47d-6f29-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors})" Name="LoadTeamsAndBettors" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="24fdabc3-0108-e590-78a3-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors})" Name="LoadTeamsAndBettors" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabc9-0108-f04f-3b70-0acc110aaa77" targetConnectors="24fdabe9-0108-f2b2-4118-0acc110aaa77" PositionX="16850" PositionY="4900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.GetFileName})" Name="GetFileName" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabca-0108-ed16-4804-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.GetFileName})" Name="GetFileName" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabcb-0108-ee29-50f5-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.GetFileName})" Name="GetFileName" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="24fdabcc-0108-f388-589c-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.GetFileName})" Name="GetFileName" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="24fdabcd-0108-f49b-6236-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.GetFileName})" Name="GetFileName" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:PositionalGeneralView" LineColor="4009615" FillColor="13565951" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabce-0108-f162-70a0-0acc110aaa77" targetConnectors="24fdabed-0108-f6fe-7fc2-0acc110aaa77" PositionX="21400" PositionY="4900" ExtentX="150" ExtentY="150" Autosize="true" VisibilityStyle="2" ShowCompartmentTitle="false" CompartmentStereotypeStyle="2" ShowParentName="false">
+      <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Teams})" Name="Teams" Kind="29"/>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabcf-0108-f275-7d32-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Teams})" Name="Teams" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabd0-0108-f571-066c-0acc110aaa77">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Teams})" Name="Teams" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Attribute" ShapeStereotypeStyle="2" Id="24fdabd1-0108-f685-0e1a-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Teams})" Name="Teams" Kind="29"/>
+      </children>
+      <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ListCompartmentView" Visible="true" FactoryHint="Operation" ShapeStereotypeStyle="2" Id="24fdabd2-0108-f34b-1799-0acc110aaa77" Ratio="-1.0" Collapsed="false">
+        <SemanticReference Id="emfsemantic:(~jclass{!pid%Superbowl}{%superbowl.Teams})" Name="Teams" Kind="29"/>
+      </children>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabd9-0108-ff1d-524f-0acc110aaa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="24fd3e2e-0108-f9a9-2237-0acc110aaa77" target="24fdabb5-0108-f86e-5c67-0acc110aaa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Bettors}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabda-0108-fbe4-5cdb-0acc110aaa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Bettors}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabdb-0108-fcf7-66e0-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Bettors}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabdc-0108-e257-7026-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Bettors}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="4" y="49"/>
+      <BendPoints x="396" y="-90"/>
+      <BendPoints x="-388" y="81"/>
+      <BendPoints x="4" y="-58"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabdd-0108-e36a-0c0e-0acc110aaa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="24fd3e2e-0108-f9a9-2237-0acc110aaa77" target="24fdabba-0108-f981-10a3-0acc110aaa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Pot}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabde-0108-e030-16a9-0acc110aaa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Pot}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabdf-0108-e144-2090-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Pot}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabe0-0108-e906-29e0-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Pot}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="4" y="49"/>
+      <BendPoints x="195" y="-65"/>
+      <BendPoints x="-187" y="81"/>
+      <BendPoints x="4" y="-33"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabe1-0108-ea19-46e5-0acc110aaa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="24fd3e2e-0108-f9a9-2237-0acc110aaa77" target="24fdabbf-0108-fee0-51f2-0acc110aaa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabe2-0108-e6e0-5179-0acc110aaa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabe3-0108-e7f3-5bba-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabe4-0108-ed53-6504-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.LoadTeamsAndBettors}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="4" y="49"/>
+      <BendPoints x="4" y="-119"/>
+      <BendPoints x="4" y="81"/>
+      <BendPoints x="4" y="-87"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabe9-0108-f2b2-4118-0acc110aaa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="24fd3e2e-0108-f9a9-2237-0acc110aaa77" target="24fdabc9-0108-f04f-3b70-0acc110aaa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.GetFileName}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabea-0108-ef79-4be9-0acc110aaa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.GetFileName}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabeb-0108-f08c-55f3-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.GetFileName}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabec-0108-f5eb-5f60-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.GetFileName}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="4" y="49"/>
+      <BendPoints x="-210" y="-73"/>
+      <BendPoints x="218" y="81"/>
+      <BendPoints x="4" y="-41"/>
+    </children>
+    <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:ConnectorView" LineColor="4009615" Font="Tahoma|10|0|" Visible="true" FactoryHint="" ShapeStereotypeStyle="2" Id="24fdabed-0108-f6fe-7fc2-0acc110aaa77" Routing="0" Smoothness="0" AvoidObstructions="false" ClosestDistance="false" SourceAnchor="anchor" TargetAnchor="anchor" JumpLinksStatus="0" JumpLinksType="1" JumpLinksReverse="false" ShowCompartmentTitle="false" source="24fd3e2e-0108-f9a9-2237-0acc110aaa77" target="24fdabce-0108-f162-70a0-0acc110aaa77">
+      <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Teams}))" Name="" Kind="49"/>
+      <Labels Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabee-0108-f3c5-0a64-0acc110aaa77" FromLine="-18" FromEnd="50" IsPercentage="true">
+        <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Teams}))" Name="" Kind="49"/>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Stereotype" ShapeStereotypeStyle="2" Id="24fdabef-0108-f4d8-1453-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Teams}))" Name="" Kind="49"/>
+        </children>
+        <children xsi:type="com.rational.xtools.umlvisualizer.emfnotation:NameCompartmentView" Visible="true" FactoryHint="Name" ShapeStereotypeStyle="2" Id="24fdabf0-0108-f7d5-1d9f-0acc110aaa77">
+          <SemanticReference Id="emfsemantic:(~sc{%UMLDependency}(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.SuperBowl})(~jclass{!pid%Superbowl}{%superbowl.Teams}))" Name="" Kind="49"/>
+        </children>
+      </Labels>
+      <BendPoints x="4" y="49"/>
+      <BendPoints x="-427" y="-90"/>
+      <BendPoints x="435" y="81"/>
+      <BendPoints x="4" y="-58"/>
+    </children>
+  </Diagram>
+</com.rational.xtools.umlvisualizer.emfnotation:Pack>
