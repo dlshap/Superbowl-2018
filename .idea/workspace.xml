@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d59f2e2-8952-4157-9e69-31c4a09963b8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ScoreCardTemplate_files/image002.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ScoreCardTemplate_files/image004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/ScoreCardTemplate_files/image005.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate(new).html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate2_files/colorschememapping.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate2_files/filelist.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate2_files/image001.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate2_files/image002.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate2_files/image003.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate2_files/image004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplate2_files/themedata.thmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot_files/colorschememapping.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot_files/filelist.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot_files/image001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot_files/image002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot_files/image003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot_files/image004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateNoPot_files/themedata.thmx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot_files/colorschememapping.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot_files/filelist.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot_files/image001.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot_files/image002.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot_files/image003.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot_files/image004.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/notused/ScoreCardTemplateWithPot_files/themedata.thmx" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CheckDistribution.xlsx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Fix Banner.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scoreURL.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScoreCardTemplate.html" afterPath="$PROJECT_DIR$/ScoreCardTemplate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScoreCardTemplate_files/filelist.xml" afterPath="$PROJECT_DIR$/ScoreCardTemplate_files/filelist.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ScoreList.html" afterPath="$PROJECT_DIR$/ScoreList.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bettors.txt" afterPath="$PROJECT_DIR$/bettors.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
@@ -61,8 +35,8 @@
       <file leaf-file-name="bettors.txt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bettors.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -281,7 +255,7 @@
       <option name="presentableId" value="Default" />
       <updated>1517666669197</updated>
       <workItem from="1517666675111" duration="4670000" />
-      <workItem from="1517671568529" duration="868000" />
+      <workItem from="1517671568529" duration="2783000" />
     </task>
     <task id="LOCAL-00001" summary="Removed Ali">
       <created>1517671645654</created>
@@ -290,15 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1517671645654</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Took out unused">
+      <created>1517756037969</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517756037969</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5538000" />
+    <option name="totallyTimeSpent" value="7453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="5" width="1663" height="970" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -313,7 +293,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24954462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -349,7 +329,8 @@
     <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
     <MESSAGE value="Superbowl 2018" />
     <MESSAGE value="Removed Ali" />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed Ali" />
+    <MESSAGE value="Took out unused" />
+    <option name="LAST_COMMIT_MESSAGE" value="Took out unused" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -408,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bettors.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
