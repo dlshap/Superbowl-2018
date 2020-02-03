@@ -1,4 +1,11 @@
-4th Quarter
-Ali,5
-Lisa,5
+1st Quarter
+Marci,5
+Beth,5
+Amy,5
+Penelope,5
+Marla,5
+Ali,3
+Laura,5
 Nancy,5
+Lisa,5
+

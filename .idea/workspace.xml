@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d59f2e2-8952-4157-9e69-31c4a09963b8" name="Default" comment="Another superbowl (2019) done!">
-      <change afterPath="$PROJECT_DIR$/49ers.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chiefs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScoreCardTemplate.html" beforeDir="false" afterPath="$PROJECT_DIR$/ScoreCardTemplate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScoreCardTemplate_files/filelist.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ScoreCardTemplate_files/filelist.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScoreCardTemplate_files/image003.png" beforeDir="false" afterPath="$PROJECT_DIR$/ScoreCardTemplate_files/image003.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fix Banner.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Fix Banner.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ScoreList.html" beforeDir="false" afterPath="$PROJECT_DIR$/ScoreList.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bettors.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bettors.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/patriots.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,16 +16,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bettors.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="153">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -95,6 +89,12 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -176,7 +176,9 @@
       <workItem from="1549233837535" duration="4257000" />
       <workItem from="1549807248088" duration="56000" />
       <workItem from="1579974514682" duration="1243000" />
-      <workItem from="1579976208840" duration="244000" />
+      <workItem from="1579976208840" duration="258000" />
+      <workItem from="1580154856494" duration="6000" />
+      <workItem from="1580682639518" duration="1373000" />
     </task>
     <task id="LOCAL-00001" summary="Removed Ali">
       <created>1517671645654</created>
@@ -234,17 +236,24 @@
       <option name="project" value="LOCAL" />
       <updated>1579974539898</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Another superbowl (2019) done!">
+      <created>1579976458086</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1579976458086</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19163000" />
+    <option name="totallyTimeSpent" value="20556000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="5" width="1663" height="970" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25577044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26200873" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -253,8 +262,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20310633" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20310633" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39904422" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -300,6 +309,18 @@
     <MESSAGE value="Ready for 2019" />
     <MESSAGE value="Another superbowl (2019) done!" />
     <option name="LAST_COMMIT_MESSAGE" value="Another superbowl (2019) done!" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/superbowl/SuperBowl.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/superbowl/GameOptions.java">
@@ -347,15 +368,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/superbowl/SuperBowl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" column="13" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+        <state relative-caret-position="245">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bettors.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
         </state>
       </provider>
     </entry>
